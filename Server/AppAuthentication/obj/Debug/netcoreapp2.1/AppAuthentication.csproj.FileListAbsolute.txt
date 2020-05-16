@@ -1,0 +1,34 @@
+F:\AppAuthentication\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthentication.deps.json
+F:\AppAuthentication\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthentication.runtimeconfig.json
+F:\AppAuthentication\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthentication.runtimeconfig.dev.json
+F:\AppAuthentication\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthentication.dll
+F:\AppAuthentication\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthentication.pdb
+F:\AppAuthentication\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthenticationModel.dll
+F:\AppAuthentication\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthenticationModel.pdb
+F:\AppAuthentication\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.csprojAssemblyReference.cache
+F:\AppAuthentication\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.csproj.CoreCompileInputs.cache
+F:\AppAuthentication\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.RazorAssemblyInfo.cache
+F:\AppAuthentication\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.RazorAssemblyInfo.cs
+F:\AppAuthentication\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.AssemblyInfoInputs.cache
+F:\AppAuthentication\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.AssemblyInfo.cs
+F:\AppAuthentication\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.RazorTargetAssemblyInfo.cache
+F:\AppAuthentication\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.csproj.CopyComplete
+F:\AppAuthentication\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.dll
+F:\AppAuthentication\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.pdb
+E:\Brain Station\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthentication.deps.json
+E:\Brain Station\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthentication.runtimeconfig.json
+E:\Brain Station\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthentication.runtimeconfig.dev.json
+E:\Brain Station\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthentication.dll
+E:\Brain Station\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthentication.pdb
+E:\Brain Station\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthenticationModel.dll
+E:\Brain Station\Server\AppAuthentication\bin\Debug\netcoreapp2.1\AppAuthenticationModel.pdb
+E:\Brain Station\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.csprojAssemblyReference.cache
+E:\Brain Station\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.csproj.CoreCompileInputs.cache
+E:\Brain Station\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.RazorAssemblyInfo.cache
+E:\Brain Station\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.RazorAssemblyInfo.cs
+E:\Brain Station\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.AssemblyInfoInputs.cache
+E:\Brain Station\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.AssemblyInfo.cs
+E:\Brain Station\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.RazorTargetAssemblyInfo.cache
+E:\Brain Station\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.csproj.CopyComplete
+E:\Brain Station\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.dll
+E:\Brain Station\Server\AppAuthentication\obj\Debug\netcoreapp2.1\AppAuthentication.pdb

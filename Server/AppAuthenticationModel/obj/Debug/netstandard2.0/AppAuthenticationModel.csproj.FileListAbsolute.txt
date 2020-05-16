@@ -1,0 +1,18 @@
+F:\AppAuthentication\Server\AppAuthenticationModel\bin\Debug\netstandard2.0\AppAuthenticationModel.deps.json
+F:\AppAuthentication\Server\AppAuthenticationModel\bin\Debug\netstandard2.0\AppAuthenticationModel.dll
+F:\AppAuthentication\Server\AppAuthenticationModel\bin\Debug\netstandard2.0\AppAuthenticationModel.pdb
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.csprojAssemblyReference.cache
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.csproj.CoreCompileInputs.cache
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.AssemblyInfoInputs.cache
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.AssemblyInfo.cs
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.dll
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.pdb
+E:\Brain Station\Server\AppAuthenticationModel\bin\Debug\netstandard2.0\AppAuthenticationModel.deps.json
+E:\Brain Station\Server\AppAuthenticationModel\bin\Debug\netstandard2.0\AppAuthenticationModel.dll
+E:\Brain Station\Server\AppAuthenticationModel\bin\Debug\netstandard2.0\AppAuthenticationModel.pdb
+E:\Brain Station\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.csprojAssemblyReference.cache
+E:\Brain Station\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.csproj.CoreCompileInputs.cache
+E:\Brain Station\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.AssemblyInfoInputs.cache
+E:\Brain Station\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.AssemblyInfo.cs
+E:\Brain Station\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.dll
+E:\Brain Station\Server\AppAuthenticationModel\obj\Debug\netstandard2.0\AppAuthenticationModel.pdb

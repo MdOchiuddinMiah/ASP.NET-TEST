@@ -1,0 +1,9 @@
+F:\AppAuthentication\Server\AppAuthenticationModel\bin\Release\netstandard2.0\AppAuthenticationModel.deps.json
+F:\AppAuthentication\Server\AppAuthenticationModel\bin\Release\netstandard2.0\AppAuthenticationModel.dll
+F:\AppAuthentication\Server\AppAuthenticationModel\bin\Release\netstandard2.0\AppAuthenticationModel.pdb
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Release\netstandard2.0\AppAuthenticationModel.csprojAssemblyReference.cache
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Release\netstandard2.0\AppAuthenticationModel.csproj.CoreCompileInputs.cache
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Release\netstandard2.0\AppAuthenticationModel.AssemblyInfoInputs.cache
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Release\netstandard2.0\AppAuthenticationModel.AssemblyInfo.cs
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Release\netstandard2.0\AppAuthenticationModel.dll
+F:\AppAuthentication\Server\AppAuthenticationModel\obj\Release\netstandard2.0\AppAuthenticationModel.pdb

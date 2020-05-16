@@ -1,0 +1,8 @@
+<div [ngClass]="theme">
+  <div [ngClass]="{'overlay-on':loading,'overlay-off':!loading}" *ngIf="loading">
+    <div class="text">
+      <mat-spinner [color]="color" diameter="45"></mat-spinner>
+    </div>
+  </div>
+  <router-outlet></router-outlet>
+</div>

@@ -1,0 +1,17 @@
+F:\AppAuthentication\Server\AppAuthentication\bin\Release\netcoreapp2.1\AppAuthentication.deps.json
+F:\AppAuthentication\Server\AppAuthentication\bin\Release\netcoreapp2.1\AppAuthentication.runtimeconfig.json
+F:\AppAuthentication\Server\AppAuthentication\bin\Release\netcoreapp2.1\AppAuthentication.runtimeconfig.dev.json
+F:\AppAuthentication\Server\AppAuthentication\bin\Release\netcoreapp2.1\AppAuthentication.dll
+F:\AppAuthentication\Server\AppAuthentication\bin\Release\netcoreapp2.1\AppAuthentication.pdb
+F:\AppAuthentication\Server\AppAuthentication\bin\Release\netcoreapp2.1\AppAuthenticationModel.dll
+F:\AppAuthentication\Server\AppAuthentication\bin\Release\netcoreapp2.1\AppAuthenticationModel.pdb
+F:\AppAuthentication\Server\AppAuthentication\obj\Release\netcoreapp2.1\AppAuthentication.csprojAssemblyReference.cache
+F:\AppAuthentication\Server\AppAuthentication\obj\Release\netcoreapp2.1\AppAuthentication.csproj.CoreCompileInputs.cache
+F:\AppAuthentication\Server\AppAuthentication\obj\Release\netcoreapp2.1\AppAuthentication.RazorAssemblyInfo.cache
+F:\AppAuthentication\Server\AppAuthentication\obj\Release\netcoreapp2.1\AppAuthentication.RazorAssemblyInfo.cs
+F:\AppAuthentication\Server\AppAuthentication\obj\Release\netcoreapp2.1\AppAuthentication.AssemblyInfoInputs.cache
+F:\AppAuthentication\Server\AppAuthentication\obj\Release\netcoreapp2.1\AppAuthentication.AssemblyInfo.cs
+F:\AppAuthentication\Server\AppAuthentication\obj\Release\netcoreapp2.1\AppAuthentication.RazorTargetAssemblyInfo.cache
+F:\AppAuthentication\Server\AppAuthentication\obj\Release\netcoreapp2.1\AppAuthentication.csproj.CopyComplete
+F:\AppAuthentication\Server\AppAuthentication\obj\Release\netcoreapp2.1\AppAuthentication.dll
+F:\AppAuthentication\Server\AppAuthentication\obj\Release\netcoreapp2.1\AppAuthentication.pdb
