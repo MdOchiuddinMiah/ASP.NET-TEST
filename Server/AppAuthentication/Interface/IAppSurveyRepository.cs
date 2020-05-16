@@ -1,4 +1,4 @@
-﻿using AppAuthenticationModel.Models;
+using AppAuthenticationModel.Models;
 using AppAuthentication.ViewModel;
 using System;
 using System.Collections.Generic;
@@ -9,7 +9,7 @@ namespace AppAuthentication.Interface
 {
     public interface IAppSurveyRepository
     {
-        Task<List<PostView>> Posts();
+        Task<List<PostView>> Posts(string searchValue, int page,int pageSize);
         Task<string> LikeDislikeComment(CommentFeedback commentFeedback);
     }
 }
