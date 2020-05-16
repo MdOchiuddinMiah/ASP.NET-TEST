@@ -14,8 +14,8 @@ export class DashBoardService {
     private configService: NgxConfigureService
   ) { }
 
-  getPosts() {
-    return this.http.get(this.configService.config.base + config.apiendpoint.posts);
+  getPosts(searchValue, page, pageSize) {
+    return this.http.get(this.configService.config.base + config.apiendpoint.posts + '/' + searchValue + '/' + page + '/' + pageSize);
   }
 
   updateFeedback(userId, commentId, isLike) {
