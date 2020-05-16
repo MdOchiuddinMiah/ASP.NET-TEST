@@ -1,3 +1,4 @@
+CREATE DATABASE AppSurvey;
 CREATE TABLE Users (
     Id int not null IDENTITY(1,1),
     [Name] nvarchar(255) NOT NULL,
