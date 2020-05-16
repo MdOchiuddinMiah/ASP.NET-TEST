@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -26,13 +26,13 @@ namespace AppAuthentication.Controllers
             _appSurveyRepository = appSurveyRepository;
         }
 
-        [HttpGet, Route("posts")]
-        public async Task<ResultView> Posts()
+        [HttpGet, Route("posts/{searchValue}/{page}/{pageSize}")]
+        public async Task<ResultView> Posts(string searchValue,int page,int pageSize)
         {
             ResultView oResult = new ResultView();
             try
             {
-                var user = await _appSurveyRepository.Posts();
+                var user = await _appSurveyRepository.Posts(searchValue,page, pageSize);
                 oResult.Data = user;
                 oResult.Success = true;
                 oResult.Message = "Retrive data successfully";
