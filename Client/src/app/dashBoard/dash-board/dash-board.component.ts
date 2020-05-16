@@ -12,6 +12,9 @@ import config from '../../config';
 export class DashBoardComponent implements OnInit {
   loginUser: any;
   postList: any[] = [];
+  serachValue='0';
+  page=1;
+  pageSize=10;
 
   constructor(
     private commonService: CommonService,
@@ -29,7 +32,7 @@ export class DashBoardComponent implements OnInit {
   _renderData() {
     this.postList = [];
     this.commonService.EnableLoading(true);
-    this.dashboardService.getPosts().subscribe(data => {
+    this.dashboardService.getPosts(this.serachValue,this.page,this.pageSize).subscribe(data => {
       let responseData = this.commonService.handleResult(data, false);
       if (responseData) {
         this.postList = responseData;
