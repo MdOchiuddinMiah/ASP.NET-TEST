@@ -47,6 +47,7 @@ insert into Users values ('User1','@21');
 insert into Users values ('User2','@21');
 insert into Users values ('User3','@21');
 insert into Users values ('User4','@21');
+insert into Users values ('User5','@21');
 
 insert into Post values ('Post1',1,'12-12-2010');
 insert into Post values ('Post2',1,'12-12-2010');
